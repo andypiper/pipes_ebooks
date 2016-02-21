@@ -844,3 +844,7 @@ nope
 poland
 digitalsurrey
 9/11
+eclipsecon
+#eclipsecon
+#craftconf
+#oscon
